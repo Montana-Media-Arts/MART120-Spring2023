@@ -8,8 +8,6 @@ module: 1
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-  <button class="tablinks" onclick="openTab(event, 'Watch')">Watch and Star</button>
-  <button class="tablinks" onclick="openTab(event, 'Issues')">Issues</button>
   <button class="tablinks" onclick="openTab(event, 'Create')">Create Repository</button>
   <button class="tablinks" onclick="openTab(event, 'GitHub')">GitHub Desktop</button>
 </div>
@@ -21,7 +19,6 @@ module: 1
 <p>This class is heavily utilizing <a href="https://github.com" target="_blank">GitHub.com</a>. Not only is this service where you will host your git repo's and live websites, but this content site lives in GitHub, and there is a "resources" repo for this site that contains:</p>
 <ul>
 <li>code examples for this course</li>
-<li>and an issue forum where you can ask each other for help.</li>
 </ul>
 
 </div>
