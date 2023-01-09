@@ -50,12 +50,12 @@ module: 1
 
 <div id="ToDoGUI" class="tabcontent">
 <p>Let's do some hands-on work here.</p>
-
+<p>**NOTE** Please know that this is practice and you will need to write a paper at the end comparing and contrasting the GUI/CLI.  This section is not meant to make you experts, but rather just a way to practice and see the two different ways to interact with your folders and file.</p>
 <p>Go into your <b>Documents</b> folder regardless if you are on Windows or Mac and create a new Folder.  How do we do that?</p>
 <ol>
 <li>Right-click and choose <b>New Folder</b>.</li>  
 <li>Rename the folder <b>MART 120</b>.  </li>
-<li>Inside that folder, create a new folder called <b>My Best Folder</b>.  </li>
+<li>Inside that folder, create a new folder called <b>My Stuff</b>.  </li>
 <li>Inside of that folder, create a new file by opening <b>TextEdit</b> on a Mac or <b>Notepad</b> on Windows and place your name in it.  </li>
 <li><b>Save</b> the file and close it.</li>
 </ol>
@@ -98,7 +98,7 @@ module: 1
 <li>Windows now include a "Linux Environment" in the Windows Features.
    <ul>
     <li>To install the Window's approved "Windows Subsystem for Linux", please follow the instructions from the following site;</li>
-    <li><a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10" target="_blank">https://docs.microsoft.com/en-us/windows/wsl/install-win10</a></li>
+    <li><a href="https://learn.microsoft.com/en-us/windows/wsl/install" target="_blank">https://docs.microsoft.com/en-us/windows/wsl/install-win10</a></li>
     </ul>
 </li>
 <li><p>A more straightforward solution (and the recommended one for this course), is to install a Bash-like CLI.</p>
