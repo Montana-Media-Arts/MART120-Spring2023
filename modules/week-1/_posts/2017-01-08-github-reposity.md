@@ -102,4 +102,8 @@ Install for PC<br>
 <li>Remember to pull first <b>always</b> and then push.</li>
 </ol>
 
+Need more help?  Watch this video and it will walk you through how to use GitHub Desktop.  It will make things much easier.
+
+<p><a href="//www.youtube.com/embed/L0TKgJRdY0s" data-lity>GitHub Desktop Video</a></p>
+
 </div>
