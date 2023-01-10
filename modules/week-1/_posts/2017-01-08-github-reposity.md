@@ -4,7 +4,7 @@ module: 1
 ---
 
 
-# _Issues Forum_ and Notifications from GitHub.com
+# GitHub.com
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
