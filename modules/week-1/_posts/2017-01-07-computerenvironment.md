@@ -127,7 +127,7 @@ Here is an online Linux terminal if you want to work directly in the browser:
 <p>&nbsp;</p>
 Go to <a href="https://cocalc.com/projects" target="_blank">CoCalc</a>.
 <p>&nbsp;</p>
-<em>* Click on <strong>Welcome to CoCalc!</strong> and then click on the <strong>"+ New"</strong> icon and then <strong>Linux terminal</strong>
+Click on <strong>Welcome to CoCalc!</strong> and then click on the <strong>"+ New"</strong> icon and then <strong>Linux terminal</strong>
 <p>Be capable of performing the following actions via command line.</p>
 <ul>
   <li>Navigate between and around directories.</li>
