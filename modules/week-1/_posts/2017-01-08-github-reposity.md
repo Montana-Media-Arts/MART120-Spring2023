@@ -14,7 +14,7 @@ module: 1
 
 <div id="Overview" class="tabcontent" style="display:block">
 
-<p><a href="//www.youtube.com/embed/jmwObsKJ3A4" data-lity>Issues Forum and Notifications Video</a></p>
+<!--<p><a href="//www.youtube.com/embed/jmwObsKJ3A4" data-lity>Issues Forum and Notifications Video</a></p>-->
 
 <p>This class is heavily utilizing <a href="https://github.com" target="_blank">GitHub.com</a>. Not only is this service where you will host your git repo's and live websites, but this content site lives in GitHub, and there is a "resources" repo for this site that contains:</p>
 <ul>
