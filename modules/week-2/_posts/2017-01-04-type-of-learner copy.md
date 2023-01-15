@@ -15,7 +15,7 @@ module: 2
 
 <p><a href="//www.youtube.com/embed/BJfZ-FbKtv0" data-lity>Learning Styles Video</a></p>
 
-<p>This section is all about how do we learn best.  Do learning styles really matter?  Do they reflect how we best learn?  Read through this <a href="https://www.scientificamerican.com/article/the-problem-with-learning-styles/" target="_blank">article</a> and provide your thoughts on this.</p>
+<p>This section is all about how do we learn best.  Do learning styles really matter?  Do they reflect how we best learn?  Read through this <a href="https://www.scientificamerican.com/article/the-problem-with-learning-styles/" target="_blank">article</a> and provide your thoughts on this in your <strong>homework</strong>.</p>
 </div>
 
 <div id="ToDo" class="tabcontent">
