@@ -1,6 +1,6 @@
 ---
 title: Math functions
-module: 10
+module: 11
 jotted: false
 ---
 
