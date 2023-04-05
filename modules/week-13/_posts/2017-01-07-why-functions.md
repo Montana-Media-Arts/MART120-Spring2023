@@ -105,11 +105,13 @@ function draw()
     calculateSum(number3, number4, 200, 200); // call the calculateSum function
 
     // Define the calculateSum function    
-    function calculateSum(number1, number2, x, y)
-    {
-        sum = number1 + number2;
-        text("Sum: " + sum, x, y);
-    }
+   
+}
+
+function calculateSum(number1, number2, x, y)
+{
+    sum = number1 + number2;
+    text("Sum: " + sum, x, y);
 }
 ```
 
